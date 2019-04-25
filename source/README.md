@@ -15,12 +15,18 @@
 
 * [普林斯顿大学计算机科学系](http://www.cs.princeton.edu/)
 * 
+* 
 
 ## Twitter（关键人物）
 
-* 
+* ETH
 
-* 
+ [vitalik]()
+
+
+* state channel
+
+[Jeff Coleman]()
 
 
 
