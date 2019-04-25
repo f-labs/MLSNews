@@ -9,25 +9,26 @@
 
 * [**Cryptology ePrint Archive**](https://eprint.iacr.org)  | [Recent Update](https://eprint.iacr.org/eprint-bin/search.pl?last=7&title=1)
 
-* [**Medium**](https://medium.com)
-
-* [**Coindesk**](https://www.coindesk.com)
 
 * [普林斯顿大学计算机科学系](http://www.cs.princeton.edu/)
 * 
 * 
 
-## Twitter（关键人物）
+## Twitter or web（关键人物）
 
-* ETH
-
- [vitalik]()
+* [**Bitcoin**](https://bitcoin.com)
 
 
-* state channel
+* [**Ethereum**](https://ethereum.org/)
 
-[Jeff Coleman]()
+   [VitalikButerin](https://twitter.com/VitalikButerin) ( [website](https://vitalik.ca/) )
+ 
 
+
+* [**state channel**](https://github.com/ledgerlabs/state-channels/wiki) || [Counterfactual(广义状态通道)](https://www.counterfactual.com/statechannels/)
+
+  [Jeff Coleman](https://www.jeffcoleman.ca/)
+  
 
 
 * 
@@ -41,4 +42,14 @@
 
 * [Medium](https://medium.com)
 * [Coindesk](https://www.coindesk.com)
-* [reddit]()
+* [reddit](https://www.reddit.com/r/) ( [Crypto_Currency_News](https://www.reddit.com/r/Crypto_Currency_News/)| [Blockchain](https://www.reddit.com/r/BlockChain) | ... ) 社交新闻站点，分频道搜索
+
+* [Bitcoin Magazine](https://bitcoinmagazine.com) | 比特杂志
+* [Etherreview](https://etherreview.info) 
+* [Ethnews](www.ethnews.com)
+* [cointelegraph](https://cointelegraph.com) | 美国知名区块链行业媒体
+* [链闻](https://chainnews.com)
+* [巴比特](https://8btc.com)
+* [Coinjournal](https://coinjournal.net/)
+* [zycrypto](https://zycrypto.com/category/news/)
+
