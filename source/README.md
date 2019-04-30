@@ -22,6 +22,12 @@
 * [**Ethereum**](https://ethereum.org/)
 
    [VitalikButerin](https://twitter.com/VitalikButerin) ( [website](https://vitalik.ca/) )
+   
+ * [**Polkadot**](https://polkadot.io/) 
+ 
+   [Gavin Wood]( https://twitter.com/gavofyork) 以太坊原CTO、Parity、Polkadot、Web3.0创始人。
+   
+   [BjörnWagner](https://twitter.com/bjornwgnr)  Parity Tech、polkadotnetwork联合创始人
  
 
 
@@ -52,4 +58,9 @@
 * [巴比特](https://8btc.com)
 * [Coinjournal](https://coinjournal.net/)
 * [zycrypto](https://zycrypto.com/category/news/)
+* [台湾区块链新闻频道](https://blockcast.it/)
+* [EOS引力区](eosgravity.com)
+* [Null TX](nulltx.com)
+* [insidebitcoins](https://insidebitcoins.com/)
+* [福布斯区块链专栏](https://www.forbes.com/crypto-blockchain/)
 
