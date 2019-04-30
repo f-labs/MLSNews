@@ -14,18 +14,21 @@
 * 
 * 
 
-## Twitter or web（关键人物）
+## Twitter or web（关键人物或公司）
 
 * [**Bitcoin**](https://bitcoin.com)
 
 
 * [**Ethereum**](https://ethereum.org/)
 
-   [VitalikButerin](https://twitter.com/VitalikButerin) ( [website](https://vitalik.ca/) )
+   [ConsenSys](https://consensys.net/) （全球最重要的区块链技术公司之一，专注以太坊网络建设）|| Joseph Lubin (ConsenSys创始人，以太坊联合创始人)
    
- * [**Polkadot**](https://polkadot.io/) 
- 
-   [Gavin Wood]( https://twitter.com/gavofyork) 以太坊原CTO、Parity、Polkadot、Web3.0创始人。
+   [VitalikButerin](https://twitter.com/VitalikButerin) | [website](https://vitalik.ca/) , 以太坊创始人 
+   
+   
+ * [**Polkadot**](https://polkadot.io/)  
+   
+   [Gavin Wood](https://twitter.com/gavofyork) | [website](http://www.gavwood.com/)，前以太坊 CTO，Polkadot、Parity 、Web3.0创始人创始人
    
    [BjörnWagner](https://twitter.com/bjornwgnr)  Parity Tech、polkadotnetwork联合创始人
  
