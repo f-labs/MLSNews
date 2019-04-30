@@ -23,9 +23,15 @@
 
    [ConsenSys](https://consensys.net/) （全球最重要的区块链技术公司之一，专注以太坊网络建设）|| Joseph Lubin (ConsenSys创始人，以太坊联合创始人)
    
-   [VitalikButerin](https://twitter.com/VitalikButerin) | [website](https://vitalik.ca/) , 以太坊创始人
-    
-  [Gavin Wood](https://twitter.com/gavofyork) | [website](http://www.gavwood.com/)，前以太坊 CTO，波卡链、Parity 创始人
+   [VitalikButerin](https://twitter.com/VitalikButerin) | [website](https://vitalik.ca/) , 以太坊创始人 
+   
+   
+ * [**Polkadot**](https://polkadot.io/)  
+   
+   [Gavin Wood](https://twitter.com/gavofyork) | [website](http://www.gavwood.com/)，前以太坊 CTO，Polkadot、Parity 、Web3.0创始人创始人
+   
+   [BjörnWagner](https://twitter.com/bjornwgnr)  Parity Tech、polkadotnetwork联合创始人
+ 
 
 
 * [**state channel**](https://github.com/ledgerlabs/state-channels/wiki) || [Counterfactual(广义状态通道)](https://www.counterfactual.com/statechannels/)
@@ -55,4 +61,9 @@
 * [巴比特](https://8btc.com)
 * [Coinjournal](https://coinjournal.net/)
 * [zycrypto](https://zycrypto.com/category/news/)
+* [台湾区块链新闻频道](https://blockcast.it/)
+* [EOS引力区](eosgravity.com)
+* [Null TX](nulltx.com)
+* [insidebitcoins](https://insidebitcoins.com/)
+* [福布斯区块链专栏](https://www.forbes.com/crypto-blockchain/)
 
