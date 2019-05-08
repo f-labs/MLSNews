@@ -66,4 +66,5 @@
 * [Null TX](nulltx.com)
 * [insidebitcoins](https://insidebitcoins.com/)
 * [福布斯区块链专栏](https://www.forbes.com/crypto-blockchain/)
-
+* [https://www.usenix.org/](https://www.usenix.org/)
+* [https://eurocrypt.iacr.org/2019/](https://eurocrypt.iacr.org/2019/)
