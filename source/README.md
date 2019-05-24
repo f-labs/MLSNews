@@ -44,7 +44,7 @@
 
 ## conference(重要会议网站)
 
-* 
+* [Ethereal Summit](https://etherealsummit.com/) | 以太峰会
 
 
 ## News（重要新闻网站）
