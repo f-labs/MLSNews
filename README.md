@@ -1,5 +1,5 @@
 # MLSNews
-《未闻》区块链技术资讯 » https://f-labs.github.io/MLSNews
+《未闻》区块链技术资讯 
 
 ### 《未闻》DailyNews May 2019
 
