@@ -3,6 +3,7 @@
 
 ### 《未闻》DailyNews May 2019
 
+- 28 May 2019 » [MLSNews区块链技术日报（2019-05-28）](./DailyNews/20190528.md)
 - 27 May 2019 » [MLSNews区块链技术日报（2019-05-27）](./DailyNews/20190527.md)
 - 24 May 2019 » [MLSNews区块链技术日报（2019-05-24）](./DailyNews/20190524.md)
 - 23 May 2019 » [MLSNews区块链技术日报（2019-05-23）](./DailyNews/20190523.md)
