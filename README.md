@@ -1,6 +1,10 @@
 # MLSNews
 《未闻》区块链技术日报，聚焦业内技术更新，做您最好的眼睛。
 
+### 《未闻》DailyNews June 2019
+
+- 05 June 2019 » [MLSNews区块链技术日报（2019-06-05）](DailyNews/June/2019-06-05-MLSNews区块链技术日报（2019-06-05）.md)
+
 ### 《未闻》DailyNews May 2019
 
 - 31 May 2019 » [MLSNews区块链技术日报（2019-05-31）](DailyNews/May/20190531.md)
