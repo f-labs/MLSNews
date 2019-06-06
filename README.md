@@ -1,8 +1,9 @@
 # MLSNews
 《未闻》区块链技术资讯 
 
+### 《未闻》DailyNews June 2019
+- 06 June 2019 » [MLSNews区块链技术日报（2019-06-06）](./DailyNews/20190606.md)
 ### 《未闻》DailyNews May 2019
-
 - 31 May 2019 » [MLSNews区块链技术日报（2019-05-31）](./DailyNews/20190531.md)
 - 29 May 2019 » [MLSNews区块链技术日报（2019-05-29）](./DailyNews/20190529.md)
 - 28 May 2019 » [MLSNews区块链技术日报（2019-05-28）](./DailyNews/20190528.md)
@@ -22,10 +23,7 @@
 - 07 May 2019 » [MLSNews区块链技术日报（2019-05-07）](./DailyNews/20190507.md)
 - 06 May 2019 » [MLSNews区块链技术日报（2019-05-06）](./DailyNews/20190506.md)
 - 05 May 2019 » [MLSNews区块链技术日报（2019-05-05）](./DailyNews/20190505.md)
-
-
 ### 《未闻》DailyNews Apr 2019
-
 - 30 Apr 2019 » [MLSNews区块链技术日报（2019-04-30）](./DailyNews/20190430.md)
 - 29 Apr 2019 » [MLSNews区块链技术日报（2019-04-29）](./DailyNews/20190429.md)
 - 28 Apr 2019 » [MLSNews区块链技术日报（2019-04-28）](./DailyNews/20190428.md)
