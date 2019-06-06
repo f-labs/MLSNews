@@ -1,1 +1,7 @@
+title: MLSNews
+description: 《未闻》区块链技术日报，聚焦业内技术更新，做您最好的眼睛。
+show_downloads: false
 theme: jekyll-theme-architect
+minimal_mistakes_skin: "air"
+markdown: kramdown
+gem "github-pages", group: :jekyll_plugins
