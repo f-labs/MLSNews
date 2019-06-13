@@ -7,6 +7,7 @@
 - 10 June 2019 » [MLSNews区块链技术日报（2019-06-10）](DailyNews/June/2019-06-10-MLSNews区块链技术日报20190610.md)
 - 06 June 2019 » [MLSNews区块链技术日报（2019-06-06）](DailyNews/June/2019-06-06-MLSNews区块链技术日报20190606.md)
 - 05 June 2019 » [MLSNews区块链技术日报（2019-06-05）](DailyNews/June/2019-06-05-MLSNews区块链技术日报20190605.md)
+
 ### 《未闻》DailyNews May 2019
 
 - 31 May 2019 » [MLSNews区块链技术日报（2019-05-31）](DailyNews/May/20190531.md)
