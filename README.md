@@ -2,6 +2,7 @@
 《未闻》区块链技术日报，聚焦业内技术更新，做您最好的眼睛。
 
 ### 《未闻》DailyNews June 2019
+- 25 June 2019 » [MLSNews区块链技术日报（2019-06-25）](DailyNews/June/2019-06-25-MLSNews区块链技术日报20190625.md)
 - 24 June 2019 » [MLSNews区块链技术日报（2019-06-24）](DailyNews/June/2019-06-24-MLSNews区块链技术日报20190624.md)
 - 21 June 2019 » [MLSNews区块链技术日报（2019-06-21）](DailyNews/June/2019-06-21-MLSNews区块链技术日报20190621.md)
 - 20 June 2019 » [MLSNews区块链技术日报（2019-06-20）](DailyNews/June/2019-06-20-MLSNews区块链技术日报20190620.md)
