@@ -3,6 +3,7 @@
 
 ### 《未闻》DailyNews July 2019
 
+- 02 July 2019 » [MLSNews区块链技术日报（2019-07-02)](DailyNews/July/2019-07-02-MLSNews区块链技术日报20190702.md)
 - 01 July 2019 » [MLSNews区块链技术日报（2019-07-01)](DailyNews/July/2019-07-01-MLSNews区块链技术日报20190701.md)
 
 ### 《未闻》DailyNews June 2019
