@@ -3,7 +3,7 @@
 
 ### 《未闻》DailyNews July 2019
 
-- 15 July 2019 » [MLSNews区块链技术日报（2019-07-15)](DailyNews/July/2019-07-15-MLSNews区块链技术日报20190715.md)
+- 15 July 2019 » [MLSNews区块链技术日报（Geth 1.9.0 发布！性能全面提升、以太坊 2.0 轻节点的数据可用性、路印协议 3.0 使用 ZKP 扩容的原理及实践)](DailyNews/July/2019-07-15-MLSNews区块链技术日报20190715.md)
 - 12 July 2019 » [MLSNews区块链技术日报（2019-07-12)](DailyNews/July/2019-07-12-MLSNews区块链技术日报20190712.md)
 - 09 July 2019 » [MLSNews区块链技术日报（2019-07-09)](DailyNews/July/2019-07-09-MLSNews区块链技术日报20190709.md)
 - 08 July 2019 » [MLSNews区块链技术日报（2019-07-08)](DailyNews/July/2019-07-08-MLSNews区块链技术日报20190708.md)
