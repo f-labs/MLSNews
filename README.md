@@ -3,14 +3,14 @@
 
 ### 《未闻》DailyNews July 2019
 
-- 15 July 2019 » [MLSNews区块链技术日报（Geth 1.9.0 发布！性能全面提升、以太坊 2.0 轻节点的数据可用性、路印协议 3.0 使用 ZKP 扩容的原理及实践)](DailyNews/July/2019-07-15-MLSNews区块链技术日报20190715.md)
-- 12 July 2019 » [MLSNews区块链技术日报（Ethercluster：Infura的开源替代品、Scriptless Scripts 的适配器签名和原子交换、细数区块链匿名技术：从 CryptoNote 到 Mimblewimble)](DailyNews/July/2019-07-12-MLSNews区块链技术日报20190712.md)
-- 09 July 2019 » [MLSNews区块链技术日报（每周以太坊、从状态通道到 Roll Up、什么是MultiFormats？)](DailyNews/July/2019-07-09-MLSNews区块链技术日报20190709.md)
-- 08 July 2019 » [MLSNews区块链技术日报（钱包服务 Electrum 计划 7 月底支持比特币闪电网络交易技术、Cosmos 运行原理：从区块链结构到互操作性、共识模型：PoW，PoS和New Pioneer，PoF)](DailyNews/July/2019-07-08-MLSNews区块链技术日报20190708.md)
-- 04 July 2019 » [MLSNews区块链技术日报（介绍Heiswap - 以太坊混合器（Live on Ropsten！）、＃15443添加getdescriptorinfo功能测试（测试）、BLAKE2b`F`压缩函数预编译·问题＃152·以太坊/ EIPs)](DailyNews/July/2019-07-04-MLSNews区块链技术日报20190704.md)
-- 03 July 2019 » [MLSNews区块链技术日报（Hub 与 Zone 架构如何实现 Cosmos 互操作性、共识算法 HotStuff 科研用代码开源，提供可运行演示版本、每周以太坊)](DailyNews/July/2019-07-03-MLSNews区块链技术日报20190703.md)
-- 02 July 2019 » [MLSNews区块链技术日报（BCH 双花的唯一受害者竟是攻击者？、交叉分片、加密V.3：容量证明)](DailyNews/July/2019-07-02-MLSNews区块链技术日报20190702.md)
-- 01 July 2019 » [MLSNews区块链技术日报（本体主网上线一周年技术解密活动: 本体克莱因瓶竞赛、Vitalik 现身北京，详解以太坊 2.0 跨分片交易、分布式计算网络 Blockstack 发布智能合约语言 Clarity)](DailyNews/July/2019-07-01-MLSNews区块链技术日报20190701.md)
+- 15 July 2019 » [MLSNews区块链技术日报（Geth 1.9.0 、ETH 2.0 、LRC 3.0  ZKP 扩容)](DailyNews/July/2019-07-15-MLSNews区块链技术日报20190715.md)
+- 12 July 2019 » [MLSNews区块链技术日报（Ethercluster、Scriptless、区块链匿名技术)](DailyNews/July/2019-07-12-MLSNews区块链技术日报20190712.md)
+- 09 July 2019 » [MLSNews区块链技术日报（ETH、 Roll Up、MultiFormats)](DailyNews/July/2019-07-09-MLSNews区块链技术日报20190709.md)
+- 08 July 2019 » [MLSNews区块链技术日报（ Electrum 、Cosmos 、共识模型)](DailyNews/July/2019-07-08-MLSNews区块链技术日报20190708.md)
+- 04 July 2019 » [MLSNews区块链技术日报（Heiswap、getdescriptorinfo、BLAKE2b-EIPs)](DailyNews/July/2019-07-04-MLSNews区块链技术日报20190704.md)
+- 03 July 2019 » [MLSNews区块链技术日报（Cosmo、 HotStuff 、ETH)](DailyNews/July/2019-07-03-MLSNews区块链技术日报20190703.md)
+- 02 July 2019 » [MLSNews区块链技术日报（BCH 、交叉分片、加密V.3)](DailyNews/July/2019-07-02-MLSNews区块链技术日报20190702.md)
+- 01 July 2019 » [MLSNews区块链技术日报（ONT、Vitalik 、 Blockstack-Clarity)](DailyNews/July/2019-07-01-MLSNews区块链技术日报20190701.md)
 
 ### 《未闻》DailyNews June 2019
 
