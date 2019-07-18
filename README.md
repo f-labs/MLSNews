@@ -3,6 +3,7 @@
 
 ### 《未闻》DailyNews July 2019
 
+- 18 July 2019 » [MLSNews区块链技术日报（Polkadot、ETH、Phase0)](DailyNews/July/2019-07-18-MLSNews区块链技术日报20190718.md)
 - 15 July 2019 » [MLSNews区块链技术日报（Geth 1.9.0 、ETH 2.0 、LRC 3.0  ZKP 扩容)](DailyNews/July/2019-07-15-MLSNews区块链技术日报20190715.md)
 - 12 July 2019 » [MLSNews区块链技术日报（Ethercluster、Scriptless、区块链匿名技术)](DailyNews/July/2019-07-12-MLSNews区块链技术日报20190712.md)
 - 09 July 2019 » [MLSNews区块链技术日报（ETH、 Roll Up、MultiFormats)](DailyNews/July/2019-07-09-MLSNews区块链技术日报20190709.md)
