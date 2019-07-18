@@ -14,19 +14,19 @@
 
 ### 《未闻》DailyNews June 2019
 
-- 28 June 2019 » [MLSNews区块链技术日报（2019-06-28）](DailyNews/June/2019-06-28-MLSNews区块链技术日报20190628.md)
-- 26 June 2019 » [MLSNews区块链技术日报（2019-06-26）](DailyNews/June/2019-06-26-MLSNews区块链技术日报20190626.md)
-- 25 June 2019 » [MLSNews区块链技术日报（2019-06-25）](DailyNews/June/2019-06-25-MLSNews区块链技术日报20190625.md)
-- 24 June 2019 » [MLSNews区块链技术日报（2019-06-24）](DailyNews/June/2019-06-24-MLSNews区块链技术日报20190624.md)
-- 21 June 2019 » [MLSNews区块链技术日报（2019-06-21）](DailyNews/June/2019-06-21-MLSNews区块链技术日报20190621.md)
-- 20 June 2019 » [MLSNews区块链技术日报（2019-06-20）](DailyNews/June/2019-06-20-MLSNews区块链技术日报20190620.md)
-- 19 June 2019 » [MLSNews区块链技术日报（2019-06-19）](DailyNews/June/2019-06-19-MLSNews区块链技术日报20190619.md)
-- 17 June 2019 » [MLSNews区块链技术日报（2019-06-17）](DailyNews/June/2019-06-17-MLSNews区块链技术日报20190617.md)
-- 13 June 2019 » [MLSNews区块链技术日报（2019-06-13）](DailyNews/June/2019-06-13-MLSNews区块链技术日报20190613.md)
-- 12 June 2019 » [MLSNews区块链技术日报（2019-06-12）](DailyNews/June/2019-06-12-MLSNews区块链技术日报20190612.md)
-- 10 June 2019 » [MLSNews区块链技术日报（2019-06-10）](DailyNews/June/2019-06-10-MLSNews区块链技术日报20190610.md)
-- 06 June 2019 » [MLSNews区块链技术日报（2019-06-06）](DailyNews/June/2019-06-06-MLSNews区块链技术日报20190606.md)
-- 05 June 2019 » [MLSNews区块链技术日报（2019-06-05）](DailyNews/June/2019-06-05-MLSNews区块链技术日报20190605.md)
+- 28 June 2019 » [MLSNews区块链技术日报（卫星接收节点、Bitrefill、PlatON、Brave）](DailyNews/June/2019-06-28-MLSNews区块链技术日报20190628.md)
+- 26 June 2019 » [MLSNews区块链技术日报（Yubikey、IPFS + ENS、Facebook）](DailyNews/June/2019-06-26-MLSNews区块链技术日报20190626.md)
+- 25 June 2019 » [MLSNews区块链技术日报（Create2、ETH、SWIFT）](DailyNews/June/2019-06-25-MLSNews区块链技术日报20190625.md)
+- 24 June 2019 » [MLSNews区块链技术日报（第2层方案、ETH Hopper、MXnet）](DailyNews/June/2019-06-24-MLSNews区块链技术日报20190624.md)
+- 21 June 2019 » [MLSNews区块链技术日报（LTC、用Go学习比特币的闪电网络）](DailyNews/June/2019-06-21-MLSNews区块链技术日报20190621.md)
+- 20 June 2019 » [MLSNews区块链技术日报（Watchtowers、Lightning、Cloudflare）](DailyNews/June/2019-06-20-MLSNews区块链技术日报20190620.md)
+- 19 June 2019 » [MLSNews区块链技术日报（跨链技术、ETH、BFTree）](DailyNews/June/2019-06-19-MLSNews区块链技术日报20190619.md)
+- 17 June 2019 » [MLSNews区块链技术日报（Facebook、Vitalik、DFINITY）](DailyNews/June/2019-06-17-MLSNews区块链技术日报20190617.md)
+- 13 June 2019 » [MLSNews区块链技术日报（BTC、IRISnet、watchtowers）](DailyNews/June/2019-06-13-MLSNews区块链技术日报20190613.md)
+- 12 June 2019 » [MLSNews区块链技术日报（goTenna、ETH、AZTEC）](DailyNews/June/2019-06-12-MLSNews区块链技术日报20190612.md)
+- 10 June 2019 » [MLSNews区块链技术日报（PoW、DAG、Blockchain fees are broken）](DailyNews/June/2019-06-10-MLSNews区块链技术日报20190610.md)
+- 06 June 2019 » [MLSNews区块链技术日报（DeFi、ETH、Work Token）](DailyNews/June/2019-06-06-MLSNews区块链技术日报20190606.md)
+- 05 June 2019 » [MLSNews区块链技术日报（VDF、FairSwap）](DailyNews/June/2019-06-05-MLSNews区块链技术日报20190605.md)
 
 ### 《未闻》DailyNews May 2019
 
