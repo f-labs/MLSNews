@@ -3,6 +3,7 @@
 
 ### 《未闻》DailyNews July 2019
 
+- 30 July 2019 » [MLSNews区块链技术日报（闪电网络、GitHub、Lightning)](DailyNews/July/2019-07-30-MLSNews区块链技术日报20190730.md)
 - 22 July 2019 » [MLSNews区块链技术日报（Gavin Wood、ETH、Web3j)](DailyNews/July/2019-07-22-MLSNews区块链技术日报20190722.md)
 - 18 July 2019 » [MLSNews区块链技术日报（Polkadot、ETH、Phase0)](DailyNews/July/2019-07-18-MLSNews区块链技术日报20190718.md)
 - 15 July 2019 » [MLSNews区块链技术日报（Geth 1.9.0 、ETH 2.0 、LRC 3.0  ZKP 扩容)](DailyNews/July/2019-07-15-MLSNews区块链技术日报20190715.md)
