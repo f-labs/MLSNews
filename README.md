@@ -2,7 +2,7 @@
 《未闻》区块链技术日报，聚焦业内技术更新，做您最好的眼睛。
 
 ### 《未闻》DailyNews August 2019
-- 21 August 2019 » [MLSNews区块链技术日报（闪电网络、GitHub、Lightning)](DailyNews/August/2019-08-21-MLSNews区块链技术日报20190821.md)
+- 21 August 2019 » [MLSNews区块链技术日报（ETH、挖矿、闪电网络)](DailyNews/August/2019-08-21-MLSNews区块链技术日报20190821.md)
 
 ### 《未闻》DailyNews July 2019
 - 30 July 2019 » [MLSNews区块链技术日报（闪电网络、GitHub、Lightning)](DailyNews/July/2019-07-30-MLSNews区块链技术日报20190730.md)
