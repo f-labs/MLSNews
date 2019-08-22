@@ -3,7 +3,7 @@
 
 ### 《未闻》DailyNews August 2019
 
-- 22 August 2019 » [MLSNews区块链技术日报（ETH、挖矿、闪电网络)](DailyNews/August/2019-08-22-MLSNews区块链技术日报20190822.md)
+- 22 August 2019 » [MLSNews区块链技术日报（Miniscript、Merkle Tree、加密货币开发)](DailyNews/August/2019-08-22-MLSNews区块链技术日报20190822.md)
 - 21 August 2019 » [MLSNews区块链技术日报（ETH、挖矿、闪电网络)](DailyNews/August/2019-08-21-MLSNews区块链技术日报20190821.md)
 
 ### 《未闻》DailyNews July 2019
